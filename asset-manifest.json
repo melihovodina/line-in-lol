@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41a920fe.css",
+    "main.js": "/static/js/main.fe6038f3.js",
+    "static/media/back.jpg": "/static/media/back.4cefc57e09c77e258d63.jpg",
+    "static/media/friz-quadrata-std-italic-587033b2c95df.otf": "/static/media/friz-quadrata-std-italic-587033b2c95df.92527d11381843028c48.otf",
+    "index.html": "/index.html",
+    "main.41a920fe.css.map": "/static/css/main.41a920fe.css.map",
+    "main.fe6038f3.js.map": "/static/js/main.fe6038f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a920fe.css",
+    "static/js/main.fe6038f3.js"
+  ]
+}
