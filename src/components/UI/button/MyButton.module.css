@@ -1,0 +1,11 @@
+.myButton{
+    padding: 1vh 3vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    color: aqua;
+    font-size: 3vh;
+    background: transparent;
+    border: 1.5px solid lightgreen;
+    border-radius: 25px;
+    cursor: pointer;
+}
